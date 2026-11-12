@@ -1,0 +1,6 @@
+Year,Registros,Etapas_faltantes,Duplicados,Distancia_nula,Errores_extraccion,Distancia_total,Estado
+2012,21,[],0,False,0,3494.4,CORRECTO
+2013,21,[],0,False,0,3388.0,CORRECTO
+2014,21,[],0,False,0,3663.5,CORRECTO
+2015,21,[],0,False,0,3360.3,CORRECTO
+2016,21,[],0,False,0,3527.5,CORRECTO

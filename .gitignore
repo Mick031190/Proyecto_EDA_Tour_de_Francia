@@ -1,0 +1,38 @@
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
+
+# Configuración local de VS Code
+.vscode/
+
+# Código externo no utilizado
+FirstCyclingAPI/
+FirstCyclingAPI*/
+**/FirstCyclingAPI/
+**/FirstCyclingAPI*/
+FirstCyclingAPI*.zip
+**/FirstCyclingAPI*.zip
+

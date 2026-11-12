@@ -1,0 +1,421 @@
+Year,Stages,Start,End,Winner of stage,Yellow Jersey,Green jersey,Polka-dot jersey,White jersey,Leader,OriginalStage,StageDistance,TotalTDFDistance_original,TotalTDFDistance
+2007,1,Londres,Londres,Fabian Cancellara  (Team Csc),Fabian Cancellara,Fabian Cancellara,,Vladimir Gusev,,0.0,7.9,,3569.9
+2007,2,Londres,Canterbury,Robbie Mc Ewen  (Predictor - Lotto),Fabian Cancellara,Robbie Mc Ewen,Martin Elmiger,Vladimir Gusev,,1.0,203.0,,3569.9
+2007,3,Dunkerque,Gand,Gert Steegmans  (Quick Step - Innergetic),Fabian Cancellara,Tom Boonen,David Millar,Vladimir Gusev,,2.0,168.5,,3569.9
+2007,4,Waregem,Compiègne,Fabian Cancellara  (Team Csc),Fabian Cancellara,Tom Boonen,Stéphane Auge,Vladimir Gusev,,3.0,236.5,,3569.9
+2007,5,villers_cotterets,Joigny,Thor Hushovd  (Credit Agricole),Fabian Cancellara,Tom Boonen,Stéphane Auge,Vladimir Gusev,,4.0,193.0,,3569.9
+2007,6,Chablis,Autun,Filippo Pozzato  (Liquigas),Fabian Cancellara,Erik Zabel,Sylvain Chavanel,Vladimir Gusev,,5.0,182.5,,3569.9
+2007,7,semur_en_auxois,Bourg-en-Bresse,Tom Boonen  (Quick Step - Innergetic),Fabian Cancellara,Tom Boonen,Sylvain Chavanel,Vladimir Gusev,,6.0,199.5,,3569.9
+2007,8,Bourg-en-Bresse,le_grand_bornand,Linus Gerdemann  (T-Mobile Team),Linus Gerdemann,Tom Boonen,Sylvain Chavanel,Linus Gerdemann,,7.0,197.5,,3569.9
+2007,9,le_grand_bornand,Tignes,Michael Rasmussen  (Rabobank),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Linus Gerdemann,,8.0,165.0,,3569.9
+2007,10,val_d_isere,Briançon,Juan Mauricio Soler Hernandez  (Barloworld),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,9.0,159.5,,3569.9
+2007,11,Tallard,Marseille,Cédric Vasseur  (Quick Step - Innergetic),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,10.0,229.5,,3569.9
+2007,12,Marseille,Montpellier,Robert Hunter  (Barloworld),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,11.0,182.5,,3569.9
+2007,13,Montpellier,Castres,Tom Boonen  (Quick Step - Innergetic),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,12.0,178.5,,3569.9
+2007,14,Albi,Albi,Cadel Evans  (Predictor - Lotto),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,13.0,54.0,,3569.9
+2007,15,Mazamet,plateau_de_beille,Alberto Contador  (Discovery Channel Team),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,14.0,197.0,,3569.9
+2007,16,Foix,loudenvielle_le_louron,Kim Kirchen  (T-Mobile Team),Michael Rasmussen,Tom Boonen,Michael Rasmussen,Alberto Contador,,15.0,196.0,,3569.9
+2007,17,Orthez,gourette_col_d_aubisque,Michael Rasmussen  (Rabobank),,Tom Boonen,Juan Mauricio Soler Hernandez,Alberto Contador,,16.0,218.5,,3569.9
+2007,18,Pau,Castelsarrasin,Daniele Bennati  (Lampre-Fondital),Alberto Contador,Tom Boonen,Juan Mauricio Soler Hernandez,Alberto Contador,,17.0,188.5,,3569.9
+2007,19,Cahors,Angoulême,Sandy Casar  (Francaise Des Jeux),Alberto Contador,Tom Boonen,Juan Mauricio Soler Hernandez,Alberto Contador,,18.0,211.0,,3569.9
+2007,20,Cognac,Angoulême,,Alberto Contador,Tom Boonen,Juan Mauricio Soler Hernandez,Alberto Contador,,19.0,55.5,,3569.9
+2007,21,Marcoussis,Paris Champs-Élysées,Daniele Bennati  (Lampre-Fondital),Alberto Contador,Tom Boonen,Juan Mauricio Soler Hernandez,Alberto Contador,,20.0,146.0,,3569.9
+2008,1,Brest,Plumelec,Alejandro Valverde  (Caisse D'Epargne),Alejandro Valverde,Philippe Gilbert,Thomas Voeckler,Riccardo Ricco,,1.0,197.5,,3559.5
+2008,2,Auray,Saint-Brieuc,Thor Hushovd  (Credit Agricole),Alejandro Valverde,Kim Kirchen,Thomas Voeckler,Riccardo Ricco,,2.0,164.5,,3559.5
+2008,3,Saint-Malo,Nantes,Samuel Dumoulin  (Cofidis Credit Par Telephone),Romain Feillu,Kim Kirchen,Thomas Voeckler,Andy Schleck,,3.0,208.0,,3559.5
+2008,4,Cholet,Cholet,Kim Kirchen  (Team Columbia),Stefan Schumacher,Kim Kirchen,Thomas Voeckler,Thomas Lövkvist,,4.0,29.5,,3559.5
+2008,5,Cholet,Chateauroux,Mark Cavendish  (Team Columbia),Stefan Schumacher,Thor Hushovd,Thomas Voeckler,Thomas Lövkvist,,5.0,232.0,,3559.5
+2008,6,Aigurande,Super-Besse,Alejandro Valverde  (Caisse D'Epargne),Kim Kirchen,Thor Hushovd,Sylvain Chavanel,Thomas Lövkvist,,6.0,195.5,,3559.5
+2008,7,Brioude,Aurillac,Luis Leon Sanchez  (Caisse D'Epargne),Kim Kirchen,Oscar Freire,David De La Fuente,Thomas Lövkvist,,7.0,159.0,,3559.5
+2008,8,Figeac,Toulouse,Mark Cavendish  (Team Columbia),Kim Kirchen,Oscar Freire,David De La Fuente,Thomas Lövkvist,,8.0,172.5,,3559.5
+2008,9,Toulouse,Bagnères-de-Bigorre,Vladimir Efimkin  (Ag2R-La Mondiale),Kim Kirchen,Oscar Freire,David De La Fuente,Andy Schleck,,9.0,224.0,,3559.5
+2008,10,Pau,Hautacam,Leonardo Piepoli  (Saunier Duval - Scott),Cadel Evans,Oscar Freire,Riccardo Ricco,Vincenzo Nibali,,10.0,156.0,,3559.5
+2008,11,Lannemezan,Foix,Kurt-Asle Arvesen  (Team Csc Saxo Bank),Cadel Evans,Oscar Freire,,Vincenzo Nibali,,11.0,167.5,,3559.5
+2008,12,Lavelanet,Narbonne,Mark Cavendish  (Team Columbia),Cadel Evans,Oscar Freire,Sebastian Lang,Vincenzo Nibali,,12.0,168.5,,3559.5
+2008,13,Narbonne,Nîmes,Mark Cavendish  (Team Columbia),Cadel Evans,Oscar Freire,Sebastian Lang,Vincenzo Nibali,,13.0,182.0,,3559.5
+2008,14,Nîmes,Digne-les-Bains,Oscar Freire  (Rabobank),Cadel Evans,Oscar Freire,Sebastian Lang,Vincenzo Nibali,,14.0,194.5,,3559.5
+2008,15,Embrun,Prato Nevoso,Simon Gerrans  (Credit Agricole),Frank Schleck,Oscar Freire,Bernhard Kohl,Vincenzo Nibali,,15.0,183.0,,3559.5
+2008,16,Cuneo,Jausiers,Cyril Dessel  (Ag2R-La Mondiale),Frank Schleck,Oscar Freire,Bernhard Kohl,Andy Schleck,,16.0,157.0,,3559.5
+2008,17,Embrun,L'Alpe-d'Huez,Carlos Sastre  (Team Csc Saxo Bank),Carlos Sastre,Oscar Freire,Bernhard Kohl,Andy Schleck,,17.0,210.5,,3559.5
+2008,18,Bourg-d'Oisans,Saint-Etienne,Marcus Burghardt  (Team Columbia),Carlos Sastre,Oscar Freire,Bernhard Kohl,Andy Schleck,,18.0,196.5,,3559.5
+2008,19,Roanne,Montluçon,Sylvain Chavanel  (Cofidis Credit Par Telephone),Carlos Sastre,Oscar Freire,Bernhard Kohl,Andy Schleck,,19.0,165.5,,3559.5
+2008,20,Cérilly,Saint-Amand-Montrond,Fabian Cancellara  (Team Csc Saxo Bank),Carlos Sastre,Oscar Freire,Bernhard Kohl,Andy Schleck,,20.0,53.0,,3559.5
+2008,21,Etampes,Paris Champs-Élysées,Gert Steegmans  (Quick Step),Carlos Sastre,Oscar Freire,Bernhard Kohl,Andy Schleck,,21.0,143.0,,3559.5
+2009,1,Monaco,Monaco,Fabian Cancellara  (Team Saxo Bank),Fabian Cancellara,Bradley Wiggins,Alberto Contador,Roman Kreuziger,,1.0,15.5,,3459.5
+2009,2,Monaco,Brignoles,Mark Cavendish  (Team Columbia - Htc),Fabian Cancellara,Mark Cavendish,Jussi Veikkanen,Roman Kreuziger,,2.0,187.0,,3459.5
+2009,3,Marseille,La Grande-Motte,Mark Cavendish  (Team Columbia - Htc),Fabian Cancellara,Mark Cavendish,Jussi Veikkanen,Tony Martin,,3.0,196.5,,3459.5
+2009,4,Montpellier,Montpellier,Astana,Fabian Cancellara,Mark Cavendish,Jussi Veikkanen,Tony Martin,,4.0,39.0,,3459.5
+2009,5,Le Cap d'Agde,Perpignan,Thomas Voeckler  (Bbox Bouygues Telecom),Fabian Cancellara,Mark Cavendish,Jussi Veikkanen,Tony Martin,,5.0,196.5,,3459.5
+2009,6,Gérone,Barcelone,Thor Hushovd  (Cervelo Test Team),Fabian Cancellara,Mark Cavendish,Stéphane Auge,Tony Martin,,6.0,181.5,,3459.5
+2009,7,Barcelone,Andorre,Brice Feillu  (Agritubel),Rinaldo Nocentini,Mark Cavendish,Brice Feillu,Tony Martin,,7.0,224.0,,3459.5
+2009,8,Andorre-la-Vieille,Saint-Girons,Luis Leon Sanchez  (Caisse D’Epargne),Rinaldo Nocentini,Thor Hushovd,Christophe Kern,Tony Martin,,8.0,176.5,,3459.5
+2009,9,Saint Gaudens,Tarbes,Pierrick Fedrigo  (Bbox Bouygues Telecom),Rinaldo Nocentini,Thor Hushovd,Egoi Martinez,Tony Martin,,9.0,160.5,,3459.5
+2009,10,Limoges,Issoudun,Mark Cavendish  (Team Columbia - Htc),Rinaldo Nocentini,Thor Hushovd,Egoi Martinez,Tony Martin,,10.0,194.5,,3459.5
+2009,11,Vatan,Saint-Fargeau,Mark Cavendish  (Team Columbia - Htc),Rinaldo Nocentini,Mark Cavendish,Egoi Martinez,Tony Martin,,11.0,192.0,,3459.5
+2009,12,Tonnerre,Vittel,Nicki Sorensen  (Team Saxo Bank),Rinaldo Nocentini,Mark Cavendish,Egoi Martinez,Tony Martin,,12.0,211.5,,3459.5
+2009,13,Vittel,Colmar,Heinrich Haussler  (Cervelo Test Team),Rinaldo Nocentini,Thor Hushovd,Franco Pellizotti,Tony Martin,,13.0,200.0,,3459.5
+2009,14,Colmar,Besançon,Serguei Ivanov  (Team Katusha),Rinaldo Nocentini,Thor Hushovd,Franco Pellizotti,Tony Martin,,14.0,199.0,,3459.5
+2009,15,Pontarlier,Verbier,Alberto Contador  (Astana),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,15.0,207.5,,3459.5
+2009,16,Martigny,Bourg Saint Maurice,Sandy Casar  (Francaise Des Jeux),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,16.0,159.0,,3459.5
+2009,17,Bourg Saint Maurice,le_grand_bornand,Frank Schleck  (Team Saxo Bank),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,17.0,169.5,,3459.5
+2009,18,Annecy,Annecy,Alberto Contador  (Astana),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,18.0,40.5,,3459.5
+2009,19,Bourgoin-Jallieu,Aubenas,Mark Cavendish  (Team Columbia - Htc),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,19.0,178.0,,3459.5
+2009,20,Montélimar,Mont Ventoux,Juan Manuel Garate  (Rabobank),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,20.0,167.0,,3459.5
+2009,21,Montereau-Fault-Yonne,Paris Champs-Élysées,Mark Cavendish  (Team Columbia - Htc),Alberto Contador,Thor Hushovd,Franco Pellizotti,Andy Schleck,,21.0,164.0,,3459.5
+2010,1,Rotterdam,Rotterdam,Fabian Cancellara  (Team Saxo Bank),Fabian Cancellara,David Millar,,Tony Martin,,0.0,8.9,,3641.9
+2010,2,Rotterdam,Bruxelles,Alessandro Petacchi  (Lampre - Farnese),Fabian Cancellara,Alessandro Petacchi,,Tony Martin,,1.0,223.5,,3641.9
+2010,3,Bruxelles,Spa,Sylvain Chavanel  (Quick Step),Sylvain Chavanel,Alessandro Petacchi,Jérôme Pineau,Tony Martin,,2.0,201.0,,3641.9
+2010,4,Wanze,Arenberg Porte du Hainaut,Thor Hushovd  (Cervelo Test Team),Fabian Cancellara,Thor Hushovd,Jérôme Pineau,Geraint Thomas,,3.0,213.0,,3641.9
+2010,5,Cambrai,Reims,Alessandro Petacchi  (Lampre - Farnese),Fabian Cancellara,Thor Hushovd,Jérôme Pineau,Geraint Thomas,,4.0,153.5,,3641.9
+2010,6,Épernay,Montargis,Mark Cavendish  (Team Htc - Columbia),Fabian Cancellara,Thor Hushovd,Jérôme Pineau,Geraint Thomas,,5.0,187.5,,3641.9
+2010,7,Montargis,Gueugnon,Mark Cavendish  (Team Htc - Columbia),Fabian Cancellara,Thor Hushovd,Jérôme Pineau,Geraint Thomas,,6.0,227.5,,3641.9
+2010,8,Tournus,Station des Rousses,Sylvain Chavanel  (Quick Step),Sylvain Chavanel,Thor Hushovd,Jérôme Pineau,Andy Schleck,,7.0,165.5,,3641.9
+2010,9,Station des Rousses,Morzine,Andy Schleck  (Team Saxo Bank),Cadel Evans,Thor Hushovd,Jérôme Pineau,Andy Schleck,,8.0,189.0,,3641.9
+2010,10,Morzine,Saint-Jean-de-Maurienne,Sandy Casar  (Fdj),Andy Schleck,Thor Hushovd,Anthony Charteau,Robert Gesink,,9.0,204.5,,3641.9
+2010,11,Chambéry,Gap,Sergio Miguel Moreira Paulinho  (Team Radioshack),Andy Schleck,Thor Hushovd,Jérôme Pineau,Robert Gesink,,10.0,179.0,,3641.9
+2010,12,Sisteron,Bourg-lès-Valence,Mark Cavendish  (Team Htc - Columbia),Andy Schleck,Alessandro Petacchi,Jérôme Pineau,Robert Gesink,,11.0,184.5,,3641.9
+2010,13,Bourg-de-Péage,Mende,Joaquin Rodriguez Oliver  (Katusha Team),Andy Schleck,Thor Hushovd,Anthony Charteau,Robert Gesink,,12.0,210.5,,3641.9
+2010,14,Rodez,Revel,Alexandre Vinokourov  (Astana),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Robert Gesink,,13.0,196.0,,3641.9
+2010,15,Revel,Ax 3 Domaines,Christophe Riblon  (Ag2R La Mondiale),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Robert Gesink,,14.0,184.5,,3641.9
+2010,16,Pamiers,Bagnères-de-Luchon,Thomas Voeckler  (Bbox Bouygues Telecom),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Andy Schleck,,15.0,187.5,,3641.9
+2010,17,Bagnères-de-Luchon,Pau,Pierrick Fedrigo  (Bbox Bouygues Telecom),Andy Schleck,Thor Hushovd,Anthony Charteau,Andy Schleck,,16.0,199.5,,3641.9
+2010,18,Pau,Col du Tourmalet,Andy Schleck  (Team Saxo Bank),Andy Schleck,Thor Hushovd,Anthony Charteau,Andy Schleck,,17.0,174.0,,3641.9
+2010,19,Salies-de-Béarn,Bordeaux,Mark Cavendish  (Team Htc - Columbia),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Andy Schleck,,18.0,198.0,,3641.9
+2010,20,Bordeaux,Pauillac,Fabian Cancellara  (Team Saxo Bank),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Andy Schleck,,19.0,52.0,,3641.9
+2010,21,Longjumeau,Paris Champs-Élysées,Mark Cavendish  (Team Htc - Columbia),Andy Schleck,Alessandro Petacchi,Anthony Charteau,Andy Schleck,,20.0,102.5,,3641.9
+2011,1,Passage du Gois,Mont des Alouettes,Philippe Gilbert  (Omega Pharma - Lotto),Philippe Gilbert,Cadel Evans,Thor Hushovd,Geraint Thomas,,1.0,191.5,,3420.5
+2011,2,Les Essarts,Les Essarts,Team Garmin - Cervelo,Thor Hushovd,Philippe Gilbert,Cadel Evans,Geraint Thomas,,2.0,23.0,,3420.5
+2011,3,Olonne-sur-Mer,Redon,Tyler Farrar  (Team Garmin - Cervelo),Thor Hushovd,José Rojas,Philippe Gilbert,Geraint Thomas,,3.0,198.0,,3420.5
+2011,4,Lorient,Mûr-de-Bretagne Guerlédan,Cadel Evans  (Bmc Racing Team),Thor Hushovd,José Rojas,Cadel Evans,Geraint Thomas,,4.0,172.5,,3420.5
+2011,5,Carhaix,Cap Fréhel,Mark Cavendish  (Htc - Highroad),Thor Hushovd,Philippe Gilbert,Cadel Evans,Geraint Thomas,,5.0,164.5,,3420.5
+2011,6,Dinan,Lisieux,Edvald Boasson-Hagen  (Sky Procycling),Thor Hushovd,Philippe Gilbert,Johnny Hoogerland,Geraint Thomas,,6.0,226.5,,3420.5
+2011,7,Le Mans,Chateauroux,Mark Cavendish  (Htc - Highroad),Thor Hushovd,José Rojas,Johnny Hoogerland,Robert Gesink,,7.0,215.0,,3420.5
+2011,8,Aigurande,Super-Besse Sancy,Rui Costa  (Movistar Team),Thor Hushovd,Philippe Gilbert,Tejay Van Garderen,Robert Gesink,,8.0,190.0,,3420.5
+2011,9,Issoire,Saint-Flour,Luis Leon Sanchez  (Rabobank Cycling Team),Thomas Voeckler,Philippe Gilbert,Johnny Hoogerland,Robert Gesink,,9.0,208.0,,3420.5
+2011,10,Aurillac,Carmaux,André Greipel  (Omega Pharma - Lotto),Thomas Voeckler,Philippe Gilbert,Johnny Hoogerland,Robert Gesink,,10.0,161.0,,3420.5
+2011,11,Blaye-les-Mines,Lavaur,Mark Cavendish  (Htc - Highroad),Thomas Voeckler,Mark Cavendish,Johnny Hoogerland,Robert Gesink,,11.0,168.5,,3420.5
+2011,12,Cugnaux,Luz-Ardiden,Samuel Sanchez  (Euskaltel - Euskadi),Thomas Voeckler,Mark Cavendish,Samuel Sanchez,Arnold Jeannesson,,12.0,211.0,,3420.5
+2011,13,Pau,Lourdes,Thor Hushovd  (Team Garmin - Cervelo),Thomas Voeckler,Mark Cavendish,Jérémy Roy,Arnold Jeannesson,,13.0,152.5,,3420.5
+2011,14,Saint Gaudens,plateau_de_beille,Jelle Vanendert  (Omega Pharma - Lotto),Thomas Voeckler,Mark Cavendish,Jelle Vanendert,Rigoberto Uran,,14.0,168.5,,3420.5
+2011,15,Limoux,Montpellier,Mark Cavendish  (Htc - Highroad),Thomas Voeckler,Mark Cavendish,Jelle Vanendert,Rigoberto Uran,,15.0,192.5,,3420.5
+2011,16,Saint-Paul -Trois-Châteaux,Gap,Thor Hushovd  (Team Garmin - Cervelo),Thomas Voeckler,Mark Cavendish,Jelle Vanendert,Rigoberto Uran,,16.0,162.5,,3420.5
+2011,17,Gap,Pinerolo,Edvald Boasson-Hagen  (Sky Procycling),Thomas Voeckler,Mark Cavendish,Jelle Vanendert,Rigoberto Uran,,17.0,179.0,,3420.5
+2011,18,Pinerolo,Galibier Serre-Chevalier,Andy Schleck  (Team Leopard-Trek),Thomas Voeckler,Mark Cavendish,Jelle Vanendert,Rein Taaramäe,,18.0,189.0,,3420.5
+2011,19,Modane Valfréjus,L'Alpe-d'Huez,Pierre Rolland  (Team Europcar),Andy Schleck,Mark Cavendish,Samuel Sanchez,Pierre Rolland,,19.0,109.5,,3420.5
+2011,20,Grenoble,Grenoble,Tony Martin  (Htc - Highroad),Cadel Evans,Mark Cavendish,Samuel Sanchez,Pierre Rolland,,20.0,42.5,,3420.5
+2011,21,Créteil,Paris Champs-Élysées,Mark Cavendish  (Htc - Highroad),Cadel Evans,Mark Cavendish,Samuel Sanchez,Pierre Rolland,,21.0,95.0,,3420.5
+2012,1,Liège,Liège,Fabian Cancellara  (Radioshack-Nissan),Fabian Cancellara,Bradley Wiggins,,Tejay Van Garderen,,0.0,6.4,,3494.4
+2012,2,Liège,Seraing,Peter Sagan  (Liquigas-Cannondale),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,1.0,198.0,,3494.4
+2012,3,Visé,Tournai,Mark Cavendish  (Sky Procycling),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,2.0,207.5,,3494.4
+2012,4,Orchies,Boulogne-sur-Mer,Peter Sagan  (Liquigas-Cannondale),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,3.0,197.0,,3494.4
+2012,5,Abbeville,Rouen,André Greipel  (Lotto-Belisol Team),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,4.0,214.5,,3494.4
+2012,6,Rouen,St-Quentin,André Greipel  (Lotto-Belisol Team),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,5.0,196.5,,3494.4
+2012,7,Épernay,Metz,Peter Sagan  (Liquigas-Cannondale),Fabian Cancellara,Peter Sagan,Michael Mørkøv,Tejay Van Garderen,,6.0,205.0,,3494.4
+2012,8,Tomblaine,La Planche des Belles Filles,Chris Froome  (Sky Procycling),Bradley Wiggins,Peter Sagan,Chris Froome,Rein Taaramäe,,7.0,199.0,,3494.4
+2012,9,Belfort,Porrentruy,Thibaut Pinot  (Fdj-Bigmat),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Rein Taaramäe,,8.0,157.5,,3494.4
+2012,10,Arc-et-Senans,Besançon,Bradley Wiggins  (Sky Procycling),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,9.0,41.5,,3494.4
+2012,11,Macon,Bellegarde-sur-Valserine,Thomas Voeckler  (Team Europcar),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,10.0,194.5,,3494.4
+2012,12,Albertville,La Toussuire,Pierre Rolland  (Team Europcar),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,11.0,148.0,,3494.4
+2012,13,Saint-Jean-de-Maurienne,Annonay Davézieux,David Millar  (Garmin-Sharp),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,12.0,226.0,,3494.4
+2012,14,Saint-Paul -Trois-Châteaux,Le Cap d'Agde,André Greipel  (Lotto-Belisol Team),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,13.0,217.0,,3494.4
+2012,15,Limoux,Foix,Luis Leon Sanchez  (Rabobank Cycling Team),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,14.0,191.0,,3494.4
+2012,16,Samatan,Pau,Pierrick Fedrigo  (Fdj-Bigmat),Bradley Wiggins,Peter Sagan,Fredrik Kessiakoff,Tejay Van Garderen,,15.0,158.5,,3494.4
+2012,17,Pau,Bagnères-de-Luchon,Thomas Voeckler  (Team Europcar),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,16.0,197.0,,3494.4
+2012,18,Bagnères-de-Luchon,Peyragudes,Alejandro Valverde  (Movistar Team),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,17.0,143.5,,3494.4
+2012,19,Blagnac,Brive-la-Gaillarde,Mark Cavendish  (Sky Procycling),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,18.0,222.5,,3494.4
+2012,20,Bonneval,Chartres,Bradley Wiggins  (Sky Procycling),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,19.0,53.5,,3494.4
+2012,21,Rambouillet,Paris Champs-Élysées,Mark Cavendish  (Sky Procycling),Bradley Wiggins,Peter Sagan,Thomas Voeckler,Tejay Van Garderen,,20.0,120.0,,3494.4
+2013,1,porto_vecchio,Bastia,Marcel Kittel  (Team Argos-Shimano),Marcel Kittel,Alexander Kristoff,Juan José Lobato Del Valle,Danny Van Poppel,,1.0,213.0,,3388.0
+2013,2,Bastia,Ajaccio,Jan Bakelants  (Radioshack Leopard),Jan Bakelants,Marcel Kittel,Pierre Rolland,Michal Kwiatkowski,,2.0,156.0,,3388.0
+2013,3,Ajaccio,Calvi,Simon Gerrans  (Orica Greenedge),Jan Bakelants,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,3.0,145.5,,3388.0
+2013,4,Nice,Nice,Orica Greenedge,Simon Gerrans,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,4.0,25.0,,3388.0
+2013,5,Cagnes-sur-Mer,Marseille,Mark Cavendish  (Omega Pharma-Quick Step),Simon Gerrans,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,5.0,228.5,,3388.0
+2013,6,Aix en Provence,Montpellier,André Greipel  (Lotto-Belisol),Daryl Impey,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,6.0,176.5,,3388.0
+2013,7,Montpellier,Albi,Peter Sagan  (Cannondale),Daryl Impey,Peter Sagan,Blel Kadri,Michal Kwiatkowski,,7.0,205.5,,3388.0
+2013,8,Castres,Ax 3 Domaines,Chris Froome  (Sky Procycling),Chris Froome,Peter Sagan,Pierre Rolland,Nairo Quintana,,8.0,195.0,,3388.0
+2013,9,Saint-Girons,Bagnères-de-Bigorre,Daniel Martin  (Garmin - Sharp),Chris Froome,Peter Sagan,Pierre Rolland,Nairo Quintana,,9.0,168.5,,3388.0
+2013,10,Saint-Gildas-des-Bois,Saint-Malo,Marcel Kittel  (Team Argos-Shimano),Chris Froome,Peter Sagan,Pierre Rolland,Nairo Quintana,,10.0,197.0,,3388.0
+2013,11,Avranches,Mont-Saint-Michel,Tony Martin  (Omega Pharma-Quick Step),Chris Froome,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,11.0,33.0,,3388.0
+2013,12,Fougères,Tours,Marcel Kittel  (Team Argos-Shimano),Chris Froome,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,12.0,218.0,,3388.0
+2013,13,Tours,Saint-Amand-Montrond,Mark Cavendish  (Omega Pharma-Quick Step),Chris Froome,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,13.0,173.0,,3388.0
+2013,14,Saint-Pourçain-sur-Sioule,Lyon,Matteo Trentin  (Omega Pharma-Quick Step),Chris Froome,Peter Sagan,Pierre Rolland,Michal Kwiatkowski,,14.0,191.0,,3388.0
+2013,15,Givors,Mont Ventoux,Chris Froome  (Sky Procycling),Chris Froome,Peter Sagan,Mikel Nieve Iturralde,Nairo Quintana,,15.0,242.5,,3388.0
+2013,16,Vaison-la-Romaine,Gap,Rui Costa  (Movistar Team),Chris Froome,Peter Sagan,Mikel Nieve Iturralde,Nairo Quintana,,16.0,168.0,,3388.0
+2013,17,Embrun,Chorges,Chris Froome  (Sky Procycling),Chris Froome,Peter Sagan,Mikel Nieve Iturralde,Nairo Quintana,,17.0,32.0,,3388.0
+2013,18,Gap,Alpe d'Huez,Christophe Riblon  (Ag2R La Mondiale),Chris Froome,Peter Sagan,Christophe Riblon,Nairo Quintana,,18.0,172.5,,3388.0
+2013,19,Bourg-d'Oisans,le_grand_bornand,Rui Costa  (Movistar Team),Chris Froome,Peter Sagan,Pierre Rolland,Nairo Quintana,,19.0,204.5,,3388.0
+2013,20,Annecy,Annecy - Semnoz,Nairo Quintana  (Movistar Team),Chris Froome,Peter Sagan,Nairo Quintana,Andrew Talansky,,20.0,125.0,,3388.0
+2013,21,Versailles,Paris Champs-Élysées,Marcel Kittel  (Team Argos-Shimano),Chris Froome,Peter Sagan,Nairo Quintana,Nairo Quintana,,21.0,118.0,,3388.0
+2014,1,Leeds,Harrogate,Marcel Kittel  (Team Giant-Shimano),Marcel Kittel,Bryan Coquard,Jens Voigt,Peter Sagan,,1.0,190.5,,3663.5
+2014,2,York,Sheffield,Vincenzo Nibali  (Astana Pro Team),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Romain Bardet,,2.0,201.0,,3663.5
+2014,3,Cambridge,Londres,Marcel Kittel  (Team Giant-Shimano),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Romain Bardet,,3.0,155.0,,3663.5
+2014,4,Le Touquet-Paris-Plage,Lille,Marcel Kittel  (Team Giant-Shimano),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Romain Bardet,,4.0,163.5,,3663.5
+2014,5,Ypres,Arenberg Porte du Hainaut,Lars Boom  (Belkin Pro Cycling),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Michal Kwiatkowski,,5.0,155.5,,3663.5
+2014,6,Arras Citadelle,Reims,André Greipel  (Lotto-Belisol),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Michal Kwiatkowski,,6.0,194.0,,3663.5
+2014,7,Épernay,Nancy,Matteo Trentin  (Omega Pharma-Quick Step),Vincenzo Nibali,Peter Sagan,Cyril Lemoine,Michal Kwiatkowski,,7.0,234.5,,3663.5
+2014,8,Tomblaine,Gérardmer,Blel Kadri  (Ag2R La Mondiale),Vincenzo Nibali,Peter Sagan,Blel Kadri,Michal Kwiatkowski,,8.0,161.0,,3663.5
+2014,9,Gérardmer,Mulhouse,Tony Martin  (Omega Pharma-Quick Step),Tony Gallopin,Peter Sagan,Tony Martin,Michal Kwiatkowski,,9.0,170.0,,3663.5
+2014,10,Mulhouse,La Planche des Belles Filles,Vincenzo Nibali  (Astana Pro Team),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,10.0,161.5,,3663.5
+2014,11,Besançon,Oyonnax,Tony Gallopin  (Lotto-Belisol),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,11.0,187.5,,3663.5
+2014,12,Bourg-en-Bresse,Saint-Etienne,Alexander Kristoff  (Team Katusha),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,12.0,185.5,,3663.5
+2014,13,Saint-Etienne,Chamrousse,Vincenzo Nibali  (Astana Pro Team),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,13.0,197.5,,3663.5
+2014,14,Grenoble,Risoul,Rafal Majka  (Tinkoff-Saxo),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,14.0,177.0,,3663.5
+2014,15,Tallard,Nîmes,Alexander Kristoff  (Team Katusha),Vincenzo Nibali,Peter Sagan,Joaquim Rodriguez,Romain Bardet,,15.0,222.0,,3663.5
+2014,16,Carcassonne,Bagnères-de-Luchon,Michael Rogers  (Tinkoff-Saxo),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,16.0,237.5,,3663.5
+2014,17,Saint Gaudens,Saint-Lary-Soulan Col du Portet,Rafal Majka  (Tinkoff-Saxo),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,17.0,124.5,,3663.5
+2014,18,Pau,Hautacam,Vincenzo Nibali  (Astana Pro Team),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,18.0,145.5,,3663.5
+2014,19,Maubourguet Pays du Val d'Adour,Bergerac,Ramunas Navardauskas  (Garmin - Sharp),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,19.0,208.5,,3663.5
+2014,20,Bergerac,Périgueux,Tony Martin  (Omega Pharma-Quick Step),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,20.0,54.0,,3663.5
+2014,21,Evry,Paris Champs-Élysées,Marcel Kittel  (Team Giant-Shimano),Vincenzo Nibali,Peter Sagan,Rafal Majka,Thibaut Pinot,,21.0,137.5,,3663.5
+2015,1,Utrecht,Utrecht,Rohan Dennis  (Bmc Racing Team),Rohan Dennis,Tony Martin,,Tom Dumoulin,,1.0,13.8,,3360.3
+2015,2,Utrecht,Zélande,André Greipel  (Lotto-Soudal),Fabian Cancellara,André Greipel,,Tom Dumoulin,,2.0,166.0,,3360.3
+2015,3,Anvers,Huy,Joaquin Rodriguez Oliver  (Team Katusha),Chris Froome,André Greipel,Joaquin Rodriguez Oliver,Peter Sagan,,3.0,159.5,,3360.3
+2015,4,Seraing,Cambrai,Tony Martin  (Etixx-Quick Step),Tony Martin,André Greipel,Joaquin Rodriguez Oliver,Peter Sagan,,4.0,223.5,,3360.3
+2015,5,Arras Communauté Urbaine,Amiens,André Greipel  (Lotto-Soudal),Tony Martin,André Greipel,Joaquin Rodriguez Oliver,Peter Sagan,,5.0,189.5,,3360.3
+2015,6,Abbeville,Le Havre,Zdenek Stybar  (Etixx-Quick Step),Tony Martin,André Greipel,Daniel Teklehaimanot,Peter Sagan,,6.0,191.5,,3360.3
+2015,7,Livarot,Fougères,Mark Cavendish  (Etixx-Quick Step),Chris Froome,André Greipel,Daniel Teklehaimanot,Peter Sagan,,7.0,190.5,,3360.3
+2015,8,Rennes,Mûr-de-Bretagne Guerlédan,Alexis Vuillermoz  (Ag2R La Mondiale),Chris Froome,Peter Sagan,Daniel Teklehaimanot,Warren Barguil,,8.0,181.5,,3360.3
+2015,9,Vannes,Plumelec,Bmc Racing Team,Chris Froome,Peter Sagan,Daniel Teklehaimanot,Nairo Quintana,,9.0,28.0,,3360.3
+2015,10,Tarbes,La Pierre-Saint-Martin,Chris Froome  (Team Sky),Chris Froome,André Greipel,Richie Porte,Nairo Quintana,,10.0,167.0,,3360.3
+2015,11,Pau,Cauterets,Rafal Majka  (Tinkoff-Saxo),Chris Froome,Peter Sagan,Richie Porte,Nairo Quintana,,11.0,188.0,,3360.3
+2015,12,Lannemezan,plateau_de_beille,Joaquin Rodriguez Oliver  (Team Katusha),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,12.0,195.0,,3360.3
+2015,13,Muret,Rodez,Greg Van Avermaet  (Bmc Racing Team),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,13.0,198.5,,3360.3
+2015,14,Rodez,Mende,Stephen Cummings  (Mtn-Qhubeka),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,14.0,178.5,,3360.3
+2015,15,Mende,Valence,André Greipel  (Lotto-Soudal),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,15.0,183.0,,3360.3
+2015,16,Bourg-de-Péage,Gap,Ruben Plaza Molina  (Lampre - Merida),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,16.0,201.0,,3360.3
+2015,17,Digne-les-Bains,Pra Loup,Simon Geschke  (Team Giant-Alpecin),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,17.0,161.0,,3360.3
+2015,18,Gap,Saint-Jean-de-Maurienne,Romain Bardet  (Ag2R La Mondiale),Chris Froome,Peter Sagan,Joaquin Rodriguez Oliver,Nairo Quintana,,18.0,186.5,,3360.3
+2015,19,Saint-Jean-de-Maurienne,La Toussuire,Vincenzo Nibali  (Astana Pro Team),Chris Froome,Peter Sagan,Romain Bardet,Nairo Quintana,,19.0,138.0,,3360.3
+2015,20,Modane Valfréjus,Alpe d'Huez,Thibaut Pinot  (Fdj),Chris Froome,Peter Sagan,Romain Bardet,Nairo Quintana,,20.0,110.5,,3360.3
+2015,21,Sèvres - Grand Paris Seine Ouest,Paris Champs-Élysées,André Greipel  (Lotto-Soudal),Chris Froome,Peter Sagan,Chris Froome,Nairo Quintana,,21.0,109.5,,3360.3
+2016,1,Mont-Saint-Michel,Utah Beach Sainte-Marie-du-Mont,Mark Cavendish  (Team Dimension Data),Mark Cavendish,Marcel Kittel,Paul Voss,Edward Theuns,,1.0,188.0,,3527.5
+2016,2,Saint-Lô,Cherbourg-en-Cotentin,Peter Sagan  (Tinkoff),Peter Sagan,Mark Cavendish,Jasper Stuyven,Julian Alaphilippe,,2.0,183.0,,3527.5
+2016,3,Granville,Angers,Mark Cavendish  (Team Dimension Data),Peter Sagan,Mark Cavendish,Jasper Stuyven,Julian Alaphilippe,,3.0,223.5,,3527.5
+2016,4,Saumur,Limoges,Marcel Kittel  (Etixx-Quick Step),Peter Sagan,Mark Cavendish,Jasper Stuyven,Julian Alaphilippe,,4.0,237.5,,3527.5
+2016,5,Limoges,Le Lioran,Greg Van Avermaet  (Bmc Racing Team),Greg Van Avermaet,Peter Sagan,Thomas De Gendt,Julian Alaphilippe,,5.0,216.0,,3527.5
+2016,6,Arpajon-sur-Cère,Montauban,Mark Cavendish  (Team Dimension Data),Greg Van Avermaet,Mark Cavendish,Thomas De Gendt,Julian Alaphilippe,,6.0,190.5,,3527.5
+2016,7,L'Isle-Jourdain,Lac de Payolle,Stephen Cummings  (Team Dimension Data),Greg Van Avermaet,Mark Cavendish,Thomas De Gendt,Adam Yates,,7.0,162.5,,3527.5
+2016,8,Pau,Bagnères-de-Luchon,Chris Froome  (Team Sky),Chris Froome,Mark Cavendish,Rafal Majka,Adam Yates,,8.0,184.0,,3527.5
+2016,9,Vielha Val d'Aran,Andorre,Tom Dumoulin  (Team Giant-Alpecin),Chris Froome,Mark Cavendish,Thibaut Pinot,Adam Yates,,9.0,184.0,,3527.5
+2016,10,Escaldes-Engordany,Revel,Michael Matthews  (Orica-Bikeexchange),Chris Froome,Peter Sagan,Thibaut Pinot,Adam Yates,,10.0,197.0,,3527.5
+2016,11,Carcassonne,Montpellier,Peter Sagan  (Tinkoff),Chris Froome,Peter Sagan,Thibaut Pinot,Adam Yates,,11.0,162.5,,3527.5
+2016,12,Montpellier,Mont Ventoux,Thomas De Gendt  (Lotto Soudal),Chris Froome,Peter Sagan,Thomas De Gendt,Adam Yates,,12.0,178.0,,3527.5
+2016,13,Bourg-Saint-Andéol,La Caverne du Pont-d'Arc,Tom Dumoulin  (Team Giant-Alpecin),Chris Froome,Peter Sagan,Thomas De Gendt,Adam Yates,,13.0,37.5,,3527.5
+2016,14,Montélimar,Villars-les-Dombes Parc des Oiseaux,Mark Cavendish  (Team Dimension Data),Chris Froome,Peter Sagan,Thomas De Gendt,Adam Yates,,14.0,208.5,,3527.5
+2016,15,Bourg-en-Bresse,Culoz,Jarlinson Pantano Gomez  (Iam Cycling),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,15.0,159.0,,3527.5
+2016,16,Moirans-en-Montagne,Berne,Peter Sagan  (Tinkoff),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,16.0,209.0,,3527.5
+2016,17,Berne,Finhaut-Emosson,Ilnur Zakarin  (Team Katusha),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,17.0,184.5,,3527.5
+2016,18,Sallanches,Megève,Chris Froome  (Team Sky),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,18.0,17.0,,3527.5
+2016,19,Albertville,Saint-Gervais Mont-Blanc,Romain Bardet  (Ag2R La Mondiale),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,19.0,146.0,,3527.5
+2016,20,Megève,Morzine,Ion Izagirre Insausti  (Movistar Team),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,20.0,146.5,,3527.5
+2016,21,Chantilly,Paris Champs-Élysées,André Greipel  (Lotto Soudal),Chris Froome,Peter Sagan,Rafal Majka,Adam Yates,,21.0,113.0,,3527.5
+2017,1,Düsseldorf,Düsseldorf,Geraint Thomas  (Team Sky),Geraint Thomas,Vasili Kiryienka,,Stefan Küng,,1.0,14.0,,3542.0
+2017,2,Düsseldorf,Liège,Marcel Kittel  (Quick - Step Floors),Geraint Thomas,Marcel Kittel,Taylor Phinney,Stefan Küng,,2.0,203.5,,3542.0
+2017,3,Verviers,Longwy,Peter Sagan  (Bora - Hansgrohe),Geraint Thomas,Marcel Kittel,Nathan Brown,Pierre Latour,,3.0,212.5,,3542.0
+2017,4,Mondorf-les-Bains,Vittel,Arnaud Demare  (Fdj),Geraint Thomas,Arnaud Demare,Nathan Brown,Pierre Latour,,4.0,207.5,,3542.0
+2017,5,Vittel,La Planche des Belles Filles,Fabio Aru  (Astana Pro Team),Chris Froome,Arnaud Demare,Fabio Aru,Simon Philip Yates,,5.0,160.5,,3542.0
+2017,6,Vesoul,Troyes,Marcel Kittel  (Quick - Step Floors),Chris Froome,Arnaud Demare,Fabio Aru,Simon Philip Yates,,6.0,216.0,,3542.0
+2017,7,Troyes,Nuits-Saint-Georges,Marcel Kittel  (Quick - Step Floors),Chris Froome,Marcel Kittel,Fabio Aru,Simon Philip Yates,,7.0,213.5,,3542.0
+2017,8,Dole,Station des Rousses,Lilian Calmejane  (Direct Energie),Chris Froome,Marcel Kittel,Lilian Calmejane,Simon Philip Yates,,8.0,187.5,,3542.0
+2017,9,Nantua,Chambéry,Rigoberto Uran  (Cannondale Drapac Professional Cycling Team),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,9.0,181.5,,3542.0
+2017,10,Périgueux,Bergerac,Marcel Kittel  (Quick - Step Floors),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,10.0,178.0,,3542.0
+2017,11,Eymet,Pau,Marcel Kittel  (Quick - Step Floors),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,11.0,203.5,,3542.0
+2017,12,Pau,Peyragudes,Romain Bardet  (Ag2R La Mondiale),Fabio Aru,Marcel Kittel,Warren Barguil,Simon Philip Yates,,12.0,214.5,,3542.0
+2017,13,Saint-Girons,Foix,Warren Barguil  (Team Sunweb),Fabio Aru,Marcel Kittel,Warren Barguil,Simon Philip Yates,,13.0,101.0,,3542.0
+2017,14,Blagnac,Rodez,Michael Matthews  (Team Sunweb),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,14.0,181.5,,3542.0
+2017,15,Laissac-Sévérac l'Église,Le Puy-en-Velay,Bauke Mollema  (Trek - Segafredo),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,15.0,189.5,,3542.0
+2017,16,Le Puy-en-Velay,Romans-sur-Isère,Michael Matthews  (Team Sunweb),Chris Froome,Marcel Kittel,Warren Barguil,Simon Philip Yates,,16.0,165.0,,3542.0
+2017,17,La Mure,Serre-Chevalier,Primoz Roglic  (Team Lotto Nl - Jumbo),Chris Froome,Michael Matthews,Warren Barguil,Simon Philip Yates,,17.0,183.0,,3542.0
+2017,18,Briançon,Izoard,Warren Barguil  (Team Sunweb),Chris Froome,Michael Matthews,Warren Barguil,Simon Philip Yates,,18.0,179.5,,3542.0
+2017,19,Embrun,Salon-de-Provence,Edvald Boasson-Hagen  (Team Dimension Data),Chris Froome,Michael Matthews,Warren Barguil,Simon Philip Yates,,19.0,222.5,,3542.0
+2017,20,Marseille,Marseille,Maciej Bodnar  (Bora - Hansgrohe),Chris Froome,Michael Matthews,Warren Barguil,Simon Philip Yates,,20.0,22.5,,3542.0
+2017,21,Montgeron,Paris Champs-Élysées,Dylan Groenewegen  (Team Lotto Nl - Jumbo),Chris Froome,Michael Matthews,Warren Barguil,Simon Philip Yates,,21.0,105.0,,3542.0
+2018,1,Noirmoutier-en-l'Île,Fontenay-le-Comte,Fernando Gaviria Rendon  (Quick - Step Floors),Fernando Gaviria Rendon,Marcel Kittel,Kévin Ledanois,Dylan Groenewegen,,1.0,201.0,,3350.5
+2018,2,Mouilleron-Saint-Germain,La Roche-sur-Yon,Peter Sagan  (Bora - Hansgrohe),Peter Sagan,Alexander Kristoff,Dion Smith,Fernando Gaviria Rendon,,2.0,182.5,,3350.5
+2018,3,Cholet,Cholet,Bmc Racing Team,Greg Van Avermaet,Peter Sagan,Dion Smith,Soren Kragh Andersen,,3.0,35.5,,3350.5
+2018,4,La Baule,Sarzeau,Fernando Gaviria Rendon  (Quick - Step Floors),Greg Van Avermaet,Peter Sagan,Dion Smith,Soren Kragh Andersen,,4.0,195.0,,3350.5
+2018,5,Lorient,Quimper,Peter Sagan  (Bora - Hansgrohe),Greg Van Avermaet,Peter Sagan,Toms Skujins,Soren Kragh Andersen,,5.0,204.5,,3350.5
+2018,6,Brest,Mûr-de-Bretagne Guerlédan,Daniel Martin  (Uae Team Emirates),Greg Van Avermaet,Peter Sagan,Toms Skujins,Soren Kragh Andersen,,6.0,181.0,,3350.5
+2018,7,Fougères,Chartres,Dylan Groenewegen  (Team Lotto Nl - Jumbo),Greg Van Avermaet,Peter Sagan,Toms Skujins,Soren Kragh Andersen,,7.0,231.0,,3350.5
+2018,8,Dreux,Amiens,Dylan Groenewegen  (Team Lotto Nl - Jumbo),Greg Van Avermaet,Peter Sagan,Toms Skujins,Soren Kragh Andersen,,8.0,181.0,,3350.5
+2018,9,Arras Citadelle,Roubaix,John Degenkolb  (Trek - Segafredo),Greg Van Avermaet,Peter Sagan,Toms Skujins,Soren Kragh Andersen,,9.0,156.5,,3350.5
+2018,10,Annecy,Le Grand-Bornand,Julian Alaphilippe  (Quick - Step Floors),Greg Van Avermaet,Peter Sagan,Julian Alaphilippe,Pierre Latour,,10.0,158.5,,3350.5
+2018,11,Albertville,La Rosière Espace San Bernardo,Geraint Thomas  (Team Sky),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,11.0,108.5,,3350.5
+2018,12,Bourg-Saint-Maurice Les Arcs,Alpe d'Huez,Geraint Thomas  (Team Sky),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,12.0,175.5,,3350.5
+2018,13,Le Bourg d'Oisans,Valence,Peter Sagan  (Bora - Hansgrohe),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,13.0,169.5,,3350.5
+2018,14,Saint-Paul-Trois-Châteaux,Mende,Omar Fraile Matarranz  (Astana Pro Team),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,14.0,188.0,,3350.5
+2018,15,Millau,Carcassonne,Magnus Cort Nielsen  (Astana Pro Team),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,15.0,181.0,,3350.5
+2018,16,Carcassonne,Bagnères-de-Luchon,Julian Alaphilippe  (Quick - Step Floors),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,16.0,218.0,,3350.5
+2018,17,Bagnères-de-Luchon,Saint-Lary-Soulan Col du Portet,Nairo Quintana  (Movistar Team),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,17.0,65.0,,3350.5
+2018,18,Trie-sur-Baïse,Pau,Arnaud Demare  (Groupama - Fdj),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,18.0,171.0,,3350.5
+2018,19,Lourdes,Laruns,Primoz Roglic  (Team Lotto Nl - Jumbo),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,19.0,200.5,,3350.5
+2018,20,Saint-Pée-sur-Nivelle,Espelette,Tom Dumoulin  (Team Sunweb),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,20.0,31.0,,3350.5
+2018,21,Houilles,Paris Champs-Élysées,Alexander Kristoff  (Uae Team Emirates),Geraint Thomas,Peter Sagan,Julian Alaphilippe,Pierre Latour,,21.0,116.0,,3350.5
+2019,1,Bruxelles,Brussel,Mike Teunissen  (Team Jumbo - Visma),Mike Teunissen,Peter Sagan,Greg Van Avermaet,Caleb Ewan,,1.0,194.5,,3365.8
+2019,2,Bruxelles Palais Royal,Brussel Atomium,Team Jumbo - Visma,Mike Teunissen,Peter Sagan,Greg Van Avermaet,Wout Van Aert,,2.0,27.6,,3365.8
+2019,3,Binche,Épernay,Julian Alaphilippe  (Deceuninck - Quick - Step),Julian Alaphilippe,Peter Sagan,Tim Wellens,Wout Van Aert,,3.0,215.0,,3365.8
+2019,4,Reims,Nancy,Elia Viviani  (Deceuninck - Quick - Step),Julian Alaphilippe,Peter Sagan,Tim Wellens,Wout Van Aert,,4.0,213.5,,3365.8
+2019,5,Saint-Dié-des-Vosges,Colmar,Peter Sagan  (Bora - Hansgrohe),Julian Alaphilippe,Peter Sagan,Tim Wellens,Wout Van Aert,,5.0,175.5,,3365.8
+2019,6,Mulhouse,La Planche des Belles Filles,Dylan Teuns  (Bahrain - Merida),Giulio Ciccone,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,6.0,160.5,,3365.8
+2019,7,Belfort,Chalon-sur-Saône,Dylan Groenewegen  (Team Jumbo - Visma),Giulio Ciccone,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,7.0,230.0,,3365.8
+2019,8,Mâcon,Saint-Étienne,Thomas De Gendt  (Lotto Soudal),Julian Alaphilippe,Peter Sagan,Tim Wellens,Giulio Ciccone,,8.0,200.0,,3365.8
+2019,9,Saint-Étienne,Brioude,Daryl Impey  (Mitchelton - Scott),Julian Alaphilippe,Peter Sagan,Tim Wellens,Giulio Ciccone,,9.0,170.5,,3365.8
+2019,10,Saint-Flour,Albi,Wout Van Aert  (Team Jumbo - Visma),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,10.0,217.5,,3365.8
+2019,11,Albi,Toulouse,Caleb Ewan  (Lotto Soudal),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,11.0,167.0,,3365.8
+2019,12,Toulouse,Bagnères-de-Bigorre,Simon Philip Yates  (Mitchelton - Scott),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,12.0,209.5,,3365.8
+2019,13,Pau,Pau,Julian Alaphilippe  (Deceuninck - Quick - Step),Julian Alaphilippe,Peter Sagan,Tim Wellens,Enric Mas Nicolau,,13.0,27.2,,3365.8
+2019,14,Tarbes,Tourmalet Barèges,Thibaut Pinot  (Groupama - Fdj),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,14.0,111.0,,3365.8
+2019,15,Limoux,Foix Prat d'Albis,Simon Philip Yates  (Mitchelton - Scott),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,15.0,185.0,,3365.8
+2019,16,Nîmes,Nîmes,Caleb Ewan  (Lotto Soudal),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,16.0,177.0,,3365.8
+2019,17,Pont du Gard,Gap,Matteo Trentin  (Mitchelton - Scott),Julian Alaphilippe,Peter Sagan,Tim Wellens,Egan Bernal Gomez,,17.0,200.0,,3365.8
+2019,18,Embrun,Valloire,Nairo Quintana  (Movistar Team),Julian Alaphilippe,Peter Sagan,Romain Bardet,Egan Bernal Gomez,,18.0,208.0,,3365.8
+2019,19,Saint-Jean-de-Maurienne,Tignes,,Egan Bernal Gomez,Peter Sagan,Romain Bardet,David Gaudu,,19.0,89.0,,3365.8
+2019,20,Albertville,Val Thorens,Vincenzo Nibali  (Bahrain - Merida),Egan Bernal Gomez,Peter Sagan,Romain Bardet,David Gaudu,,20.0,59.5,,3365.8
+2019,21,Rambouillet,Paris Champs-Élysées,Caleb Ewan  (Lotto Soudal),Egan Bernal Gomez,Peter Sagan,Romain Bardet,Egan Bernal Gomez,,21.0,128.0,,3365.8
+2020,1,Nice Moyen Pays,Nice,Alexander Kristoff  (Uae Team Emirates),Alexander Kristoff,Peter Sagan,Fabien Grellier,Mads Pedersen,,1.0,156.0,,3482.2
+2020,2,Nice Haut Pays,Nice,Julian Alaphilippe  (Deceuninck - Quick - Step),Julian Alaphilippe,Alexander Kristoff,Benoit Cosnefroy,Marc Hirschi,,2.0,185.0,,3482.2
+2020,3,Nice,Sisteron,Caleb Ewan  (Lotto Soudal),Julian Alaphilippe,Peter Sagan,Benoit Cosnefroy,Marc Hirschi,,3.0,198.0,,3482.2
+2020,4,Sisteron,Orcières-Merlette,Primoz Roglic  (Team Jumbo - Visma),Julian Alaphilippe,Peter Sagan,Benoit Cosnefroy,Tadej Pogacar,,4.0,160.5,,3482.2
+2020,5,Gap,Privas,Wout Van Aert  (Team Jumbo - Visma),Adam Yates,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,5.0,183.0,,3482.2
+2020,6,Le Teil,Mont Aigoual,Alexey Lutsenko  (Astana Pro Team),Adam Yates,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,6.0,191.0,,3482.2
+2020,7,Millau,Lavaur,Wout Van Aert  (Team Jumbo - Visma),Adam Yates,Peter Sagan,Benoit Cosnefroy,Egan Bernal Gomez,,7.0,168.0,,3482.2
+2020,8,Cazères-sur-Garonne,Loudenvielle,Nans Peters  (Ag2R La Mondiale),Adam Yates,Peter Sagan,Benoit Cosnefroy,Egan Bernal Gomez,,8.0,141.0,,3482.2
+2020,9,Pau,Laruns,Tadej Pogacar  (Uae Team Emirates),Primoz Roglic,Peter Sagan,Benoit Cosnefroy,Egan Bernal Gomez,,9.0,153.0,,3482.2
+2020,10,Île d'Oléron Le Château-d'Oléron,Île de Ré Saint-Martin-de-Ré,Sam Bennett  (Deceuninck - Quick - Step),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Egan Bernal Gomez,,10.0,168.5,,3482.2
+2020,11,Châtelaillon-Plage,Poitiers,Caleb Ewan  (Lotto Soudal),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Egan Bernal Gomez,,11.0,166.5,,3482.2
+2020,12,Chauvigny,Sarran Corrèze,Marc Hirschi  (Team Sunweb),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Egan Bernal Gomez,,12.0,218.0,,3482.2
+2020,13,Châtel-Guyon,Puy Mary Cantal,Daniel Felipe Martinez Poveda  (Ef Pro Cycling),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,13.0,191.5,,3482.2
+2020,14,Clermont-Ferrand,Lyon,Soren Kragh Andersen  (Team Sunweb),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,14.0,194.0,,3482.2
+2020,15,Lyon,Grand Colombier,Tadej Pogacar  (Uae Team Emirates),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,15.0,174.5,,3482.2
+2020,16,La Tour-du-Pin,Villard-de-Lans,Lennard Kämna  (Bora - Hansgrohe),Primoz Roglic,Sam Bennett,Benoit Cosnefroy,Tadej Pogacar,,16.0,164.0,,3482.2
+2020,17,Grenoble,Méribel Col de la Loze,Miguel Angel Lopez Moreno  (Astana Pro Team),Primoz Roglic,Sam Bennett,Tadej Pogacar,Enric Mas Nicolau,,17.0,170.0,,3482.2
+2020,18,Méribel,La Roche-sur-Foron,Michal Kwiatkowski  (Ineos Grenadiers),Primoz Roglic,Sam Bennett,Richard Carapaz,Tadej Pogacar,,18.0,175.0,,3482.2
+2020,19,Bourg-en-Bresse,Champagnole,Soren Kragh Andersen  (Team Sunweb),Primoz Roglic,Sam Bennett,Richard Carapaz,Tadej Pogacar,,19.0,166.5,,3482.2
+2020,20,Lure,La Planche des Belles Filles,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Sam Bennett,Richard Carapaz,Enric Mas Nicolau,,20.0,36.2,,3482.2
+2020,21,Mantes-la-Jolie,Paris Champs-Élysées,Sam Bennett  (Deceuninck - Quick - Step),Tadej Pogacar,Sam Bennett,Tadej Pogacar,Tadej Pogacar,,21.0,122.0,,3482.2
+2021,1,Brest,Landerneau,Julian Alaphilippe  (Deceuninck - Quick - Step),Julian Alaphilippe,Michael Matthews,Ide Schelling,Tadej Pogacar,,1.0,197.8,,3414.2
+2021,2,Perros-Guirec,Mûr-de-Bretagne Guerlédan,Mathieu Van Der Poel  (Alpecin - Fenix),Mathieu Van Der Poel,Julian Alaphilippe,Ide Schelling,Tadej Pogacar,,2.0,183.5,,3414.2
+2021,3,Lorient,Pontivy,Tim Merlier  (Alpecin - Fenix),Mathieu Van Der Poel,Julian Alaphilippe,Ide Schelling,Tadej Pogacar,,3.0,182.9,,3414.2
+2021,4,Redon,Fougères,Mark Cavendish  (Deceuninck - Quick - Step),Mathieu Van Der Poel,Mark Cavendish,Ide Schelling,Tadej Pogacar,,4.0,150.4,,3414.2
+2021,5,Changé,Laval Espace Mayenne,Tadej Pogacar  (Uae Team Emirates),Mathieu Van Der Poel,Mark Cavendish,Ide Schelling,Tadej Pogacar,,5.0,27.2,,3414.2
+2021,6,Tours,Châteauroux,Mark Cavendish  (Deceuninck - Quick - Step),Mathieu Van Der Poel,Mark Cavendish,Ide Schelling,Tadej Pogacar,,6.0,160.4,,3414.2
+2021,7,Vierzon,Le Creusot,Matej Mohoric  (Bahrain Victorious),Mathieu Van Der Poel,Mark Cavendish,Matej Mohoric,Tadej Pogacar,,7.0,249.1,,3414.2
+2021,8,Oyonnax,Le Grand-Bornand,Dylan Teuns  (Bahrain Victorious),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,8.0,150.8,,3414.2
+2021,9,Cluses,Tignes,Ben Alexander O'Connor  (Ag2R Citroen Team),Tadej Pogacar,Mark Cavendish,Nairo Quintana,Jonas Vingegaard Hansen,,9.0,144.9,,3414.2
+2021,10,Albertville,Valence,Mark Cavendish  (Deceuninck - Quick - Step),Tadej Pogacar,Mark Cavendish,Nairo Quintana,Jonas Vingegaard Hansen,,10.0,190.7,,3414.2
+2021,11,Sorgues,Malaucène,Wout Van Aert  (Jumbo - Visma),Tadej Pogacar,Mark Cavendish,Nairo Quintana,Jonas Vingegaard Hansen,,11.0,198.9,,3414.2
+2021,12,Saint-Paul-Trois-Châteaux,Nîmes,Nils Politt  (Bora - Hansgrohe),Tadej Pogacar,Mark Cavendish,Nairo Quintana,Jonas Vingegaard Hansen,,12.0,159.4,,3414.2
+2021,13,Nîmes,Carcassonne,Mark Cavendish  (Deceuninck - Quick - Step),Tadej Pogacar,Mark Cavendish,Nairo Quintana,Jonas Vingegaard Hansen,,13.0,219.9,,3414.2
+2021,14,Carcassonne,Quillan,Bauke Mollema  (Trek - Segafredo),Tadej Pogacar,Mark Cavendish,Michael Russell Woods,Jonas Vingegaard Hansen,,14.0,183.7,,3414.2
+2021,15,Céret,Andorre-la-Vieille,Sepp Kuss  (Jumbo - Visma),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,15.0,191.3,,3414.2
+2021,16,Pas de la Case,Saint-Gaudens,Patrick Konrad  (Bora - Hansgrohe),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,16.0,169.0,,3414.2
+2021,17,Muret,Saint-Lary-Soulan Col du Portet,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,17.0,178.4,,3414.2
+2021,18,Pau,Luz Ardiden,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,18.0,129.7,,3414.2
+2021,19,Mourenx,Libourne,Matej Mohoric  (Bahrain Victorious),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,19.0,207.0,,3414.2
+2021,20,Libourne,Saint-Emilion,Wout Van Aert  (Jumbo - Visma),Tadej Pogacar,Mark Cavendish,Wout Poels,Jonas Vingegaard Hansen,,20.0,30.8,,3414.2
+2021,21,Chatou,Paris Champs-Élysées,Wout Van Aert  (Jumbo - Visma),Tadej Pogacar,Mark Cavendish,Tadej Pogacar,Tadej Pogacar,,21.0,108.4,,3414.2
+2022,1,Copenhague,Copenhague,Yves Lampaert  (Quick-Step Alpha Vinyl Team),Yves Lampaert,Wout Van Aert,,Tadej Pogacar,,1.0,13.2,,3349.8
+2022,2,Roskilde,Nyborg,Fabio Jakobsen  (Quick-Step Alpha Vinyl Team),Wout Van Aert,Fabio Jakobsen,Magnus Cort Nielsen,Tadej Pogacar,,2.0,202.2,,3349.8
+2022,3,Vejle,Sønderborg,Dylan Groenewegen  (Team Bikeexchange-Jayco),Wout Van Aert,Fabio Jakobsen,Magnus Cort Nielsen,Tadej Pogacar,,3.0,182.0,,3349.8
+2022,4,Dunkerque,Calais,Wout Van Aert  (Jumbo - Visma),Wout Van Aert,Fabio Jakobsen,Magnus Cort Nielsen,Tadej Pogacar,,4.0,171.5,,3349.8
+2022,5,Lille Métropole,Arenberg Porte du Hainaut,Simon Clarke  (Israel-Premier Tech),Wout Van Aert,Fabio Jakobsen,Magnus Cort Nielsen,Tadej Pogacar,,5.0,157.0,,3349.8
+2022,6,Binche,Longwy,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Wout Van Aert,Magnus Cort Nielsen,Tom Pidcock,,6.0,219.9,,3349.8
+2022,7,Tomblaine,La Super Planche des Belles Filles,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Wout Van Aert,Magnus Cort Nielsen,Tom Pidcock,,7.0,176.3,,3349.8
+2022,8,Dole,Lausanne,Wout Van Aert  (Jumbo - Visma),Tadej Pogacar,Wout Van Aert,Magnus Cort Nielsen,Tom Pidcock,,8.0,186.3,,3349.8
+2022,9,Aigle,Châtel Les Portes du Soleil,Bob Jungels  (Ag2R Citroen Team),Tadej Pogacar,Wout Van Aert,Simon Geschke,Tom Pidcock,,9.0,192.9,,3349.8
+2022,10,Morzine Les Portes du Soleil,Megève,Magnus Cort Nielsen  (Ef Education - Easypost),Tadej Pogacar,Wout Van Aert,Simon Geschke,Tom Pidcock,,10.0,148.1,,3349.8
+2022,11,Albertville,Col du Granon Serre Chevalier,Jonas Vingegaard Hansen  (Jumbo - Visma),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,11.0,151.7,,3349.8
+2022,12,Briançon,Alpe d'Huez,Tom Pidcock  (Ineos Grenadiers),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,12.0,165.1,,3349.8
+2022,13,Le Bourg d'Oisans,Saint-Étienne,Mads Pedersen  (Trek - Segafredo),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,13.0,192.6,,3349.8
+2022,14,Saint-Étienne,Mende,Michael Matthews  (Team Bikeexchange-Jayco),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,14.0,192.5,,3349.8
+2022,15,Rodez,Carcassonne,Jasper Philipsen  (Alpecin - Deceuninck),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,15.0,202.5,,3349.8
+2022,16,Carcassonne,Foix,Hugo Houle  (Israel-Premier Tech),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,16.0,178.5,,3349.8
+2022,17,Saint-Gaudens,Peyragudes,Tadej Pogacar  (Uae Team Emirates),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,17.0,129.7,,3349.8
+2022,18,Lourdes,Hautacam,Jonas Vingegaard Hansen  (Jumbo - Visma),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,18.0,143.2,,3349.8
+2022,19,Castelnau-Magnoac,Cahors,Christophe Laporte  (Jumbo - Visma),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,19.0,188.3,,3349.8
+2022,20,Lacapelle-Marival,Rocamadour,Wout Van Aert  (Jumbo - Visma),Jonas Vingegaard Hansen,Wout Van Aert,Simon Geschke,Tadej Pogacar,,20.0,40.7,,3349.8
+2022,21,Paris La Défense Arena,Paris Champs-Élysées,Jasper Philipsen  (Alpecin - Deceuninck),Jonas Vingegaard Hansen,Wout Van Aert,Jonas Vingegaard Hansen,Tadej Pogacar,,21.0,115.6,,3349.8
+2023,1,Bilbao,Bilbao,Adam Yates  (Uae Team Emirates),Adam Yates,Simon Philip Yates,Neilson Powless,Tadej Pogacar,,1.0,182.0,,3405.1
+2023,2,Vitoria-Gasteiz,Saint-Sébastien,Victor Lafay  (Cofidis),Adam Yates,Victor Lafay,Neilson Powless,Tadej Pogacar,,2.0,208.9,,3405.1
+2023,3,Amorebieta-Etxano,Bayonne,Jasper Philipsen  (Alpecin-Deceuninck),Adam Yates,Victor Lafay,Neilson Powless,Tadej Pogacar,,3.0,193.5,,3405.1
+2023,4,Dax,Nogaro,Jasper Philipsen  (Alpecin-Deceuninck),Adam Yates,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,4.0,181.8,,3405.1
+2023,5,Pau,Laruns,Jai Hindley  (Bora - Hansgrohe),Jai Hindley,Jasper Philipsen,Felix Gall,Tadej Pogacar,,5.0,162.7,,3405.1
+2023,6,Tarbes,Cauterets-Cambasque,Tadej Pogacar  (Uae Team Emirates),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,6.0,144.9,,3405.1
+2023,7,Mont-de-Marsan,Bordeaux,Jasper Philipsen  (Alpecin-Deceuninck),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,7.0,169.9,,3405.1
+2023,8,Libourne,Limoges,Mads Pedersen  (Lidl - Trek),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,8.0,200.7,,3405.1
+2023,9,Saint-Léonard-de-Noblat,Puy de Dôme,Michael Russell Woods  (Israel - Premier Tech),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,9.0,182.4,,3405.1
+2023,10,Vulcania,Issoire,Pello Bilbao Lopez De Armentia  (Bahrain Victorious),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,10.0,167.2,,3405.1
+2023,11,Clermont-Ferrand,Moulins,Jasper Philipsen  (Alpecin-Deceuninck),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,11.0,179.3,,3405.1
+2023,12,Roanne,Belleville-en-Beaujolais,Ion Izagirre Insausti  (Cofidis),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,12.0,168.8,,3405.1
+2023,13,Châtillon-sur-Chalaronne,Grand Colombier,Michal Kwiatkowski  (Ineos Grenadiers),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,13.0,137.8,,3405.1
+2023,14,Annemasse,Morzine Les Portes du Soleil,Carlos Rodriguez  (Ineos Grenadiers),Jonas Vingegaard Hansen,Jasper Philipsen,Neilson Powless,Tadej Pogacar,,14.0,151.8,,3405.1
+2023,15,Les Gets les portes du soleil,Saint-Gervais Mont-Blanc,Wout Poels  (Bahrain Victorious),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,15.0,179.0,,3405.1
+2023,16,Passy,Combloux,Jonas Vingegaard Hansen  (Jumbo-Visma),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,16.0,22.4,,3405.1
+2023,17,Saint-Gervais Mont-Blanc,Courchevel,Felix Gall  (Ag2R Citroen Team),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,17.0,165.7,,3405.1
+2023,18,Moûtiers,Bourg-en-Bresse,Kasper Asgreen  (Soudal Quick-Step),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,18.0,184.9,,3405.1
+2023,19,Moirans-en-Montagne,Poligny,Matej Mohoric  (Bahrain Victorious),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,19.0,172.8,,3405.1
+2023,20,Belfort,Le Markstein Fellering,Tadej Pogacar  (Uae Team Emirates),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,20.0,133.5,,3405.1
+2023,21,Saint-Quentin-en-Yvelines,Paris Champs-Élysées,Jordi Meeus  (Bora - Hansgrohe),Jonas Vingegaard Hansen,Jasper Philipsen,Giulio Ciccone,Tadej Pogacar,,21.0,115.1,,3405.1
+2024,1,Florence,Rimini,Romain Bardet  (Team Dsm-Firmenich Postnl),Romain Bardet,Frank Van Den Broek,Jonas Abrahamsen,Maxim Van Gils,,1.0,206.0,,3498.0
+2024,2,Cesenatico,Bologne,Kévin Vauquelin  (Arkea-B&B Hotels),Tadej Pogacar,Jonas Abrahamsen,Valentin Madouas,Remco Evenepoel,,2.0,199.2,,3498.0
+2024,3,Plaisance,Turin,Biniam Girmay  (Intermarché - Wanty),Richard Carapaz,Jonas Abrahamsen,Valentin Madouas,Remco Evenepoel,,3.0,230.8,,3498.0
+2024,4,Pinerolo,Valloire,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Jonas Abrahamsen,Valentin Madouas,Remco Evenepoel,,4.0,139.6,,3498.0
+2024,5,Saint-Jean-de-Maurienne,Saint-Vulbas,Mark Cavendish  (Astana Qazaqstan Team),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,5.0,177.4,,3498.0
+2024,6,Mâcon,Dijon,Dylan Groenewegen  (Team Jayco Alula),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,6.0,163.5,,3498.0
+2024,7,Nuits-Saint-Georges,Gevrey-Chambertin,Remco Evenepoel  (Soudal Quick-Step),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,7.0,25.3,,3498.0
+2024,8,Semur-en-Auxois,Colombey-les-deux-Églises,Biniam Girmay  (Intermarché - Wanty),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,8.0,183.4,,3498.0
+2024,9,Troyes,Troyes,Anthony Turgis  (Totalenergies),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,9.0,199.0,,3498.0
+2024,10,Orléans,Saint-Amand-Montrond,Jasper Philipsen  (Alpecin-Deceuninck),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,10.0,187.3,,3498.0
+2024,11,Évaux-les-Bains,Le Lioran,Jonas Vingegaard Hansen  (Team Visma | Lease A Bike),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,11.0,211.0,,3498.0
+2024,12,Aurillac,Villeneuve-sur-Lot,Biniam Girmay  (Intermarché - Wanty),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,12.0,203.6,,3498.0
+2024,13,Agen,Pau,Jasper Philipsen  (Alpecin-Deceuninck),Tadej Pogacar,Biniam Girmay,Jonas Abrahamsen,Remco Evenepoel,,13.0,165.3,,3498.0
+2024,14,Pau,Saint-Lary-Soulan Pla d'Adet,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Biniam Girmay,Jonas Vingegaard Hansen,Remco Evenepoel,,14.0,151.9,,3498.0
+2024,15,Loudenvielle,Plateau de Beille,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Biniam Girmay,Jonas Vingegaard Hansen,Remco Evenepoel,,15.0,197.7,,3498.0
+2024,16,Gruissan,Nîmes,Jasper Philipsen  (Alpecin-Deceuninck),Tadej Pogacar,Biniam Girmay,Jonas Vingegaard Hansen,Remco Evenepoel,,16.0,188.6,,3498.0
+2024,17,Saint-Paul-Trois-Châteaux,Superdévoluy,Richard Carapaz  (Ef Education - Easypost),Tadej Pogacar,Biniam Girmay,Jonas Vingegaard Hansen,Remco Evenepoel,,17.0,177.8,,3498.0
+2024,18,Gap,Barcelonnette,Victor Campenaerts  (Lotto Dstny),Tadej Pogacar,Biniam Girmay,Jonas Vingegaard Hansen,Remco Evenepoel,,18.0,179.5,,3498.0
+2024,19,Embrun,Isola 2000,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Biniam Girmay,Richard Carapaz,Remco Evenepoel,,19.0,144.6,,3498.0
+2024,20,Nice,Col de la Couillole,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Biniam Girmay,Richard Carapaz,Remco Evenepoel,,20.0,132.8,,3498.0
+2024,21,Monaco,Nice,Tadej Pogacar  (Uae Team Emirates),Tadej Pogacar,Biniam Girmay,Richard Carapaz,Remco Evenepoel,,21.0,33.7,,3498.0
+2025,1,Lille Métropole,Lille Métropole,Jasper Philipsen  (Alpecin-Deceuninck),Jasper Philipsen,Anthony Turgis,Benjamin Thomas,Biniam Girmay,,1.0,184.9,,3302.0
+2025,2,Lauwin-Planque,Boulogne-sur-Mer,Mathieu Van Der Poel  (Alpecin-Deceuninck),Mathieu Van Der Poel,Jasper Philipsen,Tadej Pogacar,Kévin Vauquelin,,2.0,209.1,,3302.0
+2025,3,Valenciennes,Dunkerque,Tim Merlier  (Soudal Quick-Step),Mathieu Van Der Poel,Jonathan Milan,Tim Wellens,Kévin Vauquelin,,3.0,178.3,,3302.0
+2025,4,Amiens Métropole,Rouen,Tadej Pogacar  (Uae Team Emirates Xrg),Mathieu Van Der Poel,Jonathan Milan,Tadej Pogacar,Kévin Vauquelin,,4.0,174.2,,3302.0
+2025,5,Caen,Caen,Remco Evenepoel  (Soudal Quick-Step),Tadej Pogacar,Jonathan Milan,Jonas Vingegaard Hansen,Remco Evenepoel,,5.0,33.0,,3302.0
+2025,6,Bayeux,Vire Normandie,Ben Healy  (Ef Education - Easypost),Mathieu Van Der Poel,Jonathan Milan,Tim Wellens,Remco Evenepoel,,6.0,201.5,,3302.0
+2025,7,Saint-Malo,Mûr-de-Bretagne Guerlédan,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Jonathan Milan,Tim Wellens,Remco Evenepoel,,7.0,197.0,,3302.0
+2025,8,Saint-Méen-le-Grand,Laval Espace Mayenne,Jonathan Milan  (Lidl-Trek),Tadej Pogacar,Jonathan Milan,Tim Wellens,Remco Evenepoel,,8.0,171.4,,3302.0
+2025,9,Chinon,Châteauroux,Tim Merlier  (Soudal Quick-Step),Tadej Pogacar,Jonathan Milan,Tim Wellens,Remco Evenepoel,,9.0,174.1,,3302.0
+2025,10,Ennezat,Le Mont-Dore Puy de Sancy,Simon Philip Yates  (Team Visma | Lease A Bike),Ben Healy,Jonathan Milan,Lenny Martinez,Remco Evenepoel,,10.0,165.3,,3302.0
+2025,11,Toulouse,Toulouse,Jonas Abrahamsen  (Uno-X Mobility),Ben Healy,Jonathan Milan,Lenny Martinez,Remco Evenepoel,,11.0,156.8,,3302.0
+2025,12,Auch,Hautacam,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Remco Evenepoel,,12.0,180.6,,3302.0
+2025,13,Loudenvielle,Peyragudes,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Remco Evenepoel,,13.0,10.9,,3302.0
+2025,14,Pau,Luchon-Superbagnères,Thymen Arensman  (Ineos Grenadiers),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Florian Lipowitz,,14.0,182.6,,3302.0
+2025,15,Muret,Carcassonne,Tim Wellens  (Uae Team Emirates Xrg),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Florian Lipowitz,,15.0,169.3,,3302.0
+2025,16,Montpellier,Mont Ventoux,Valentin Paret Peintre  (Soudal Quick-Step),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Florian Lipowitz,,16.0,171.5,,3302.0
+2025,17,Bollène,Valence,Jonathan Milan  (Lidl-Trek),Tadej Pogacar,Jonathan Milan,Lenny Martinez,Florian Lipowitz,,17.0,160.4,,3302.0
+2025,18,Vif,Courchevel Col de la Loze,Ben Alexander O'Connor  (Team Jayco Alula),Tadej Pogacar,Jonathan Milan,Jonas Vingegaard Hansen,Florian Lipowitz,,18.0,171.5,,3302.0
+2025,19,Albertville,La Plagne,Thymen Arensman  (Ineos Grenadiers),Tadej Pogacar,Jonathan Milan,Jonas Vingegaard Hansen,Florian Lipowitz,,19.0,93.1,,3302.0
+2025,20,Nantua,Pontarlier,Kaden Groves  (Alpecin-Deceuninck),Tadej Pogacar,Jonathan Milan,Jonas Vingegaard Hansen,Florian Lipowitz,,20.0,184.2,,3302.0
+2025,21,Mantes-la-Ville,Paris Champs-Élysées,Wout Van Aert  (Team Visma | Lease A Bike),Tadej Pogacar,Jonathan Milan,Tadej Pogacar,Florian Lipowitz,,21.0,132.3,,3302.0
+2026,1,Barcelone,Barcelone,Team Visma | Lease A Bike,Jonas Vingegaard Hansen,Egan Bernal Gomez,Tadej Pogacar,Juan Ayuso Pesquera,,1.0,19.6,,3245.0
+2026,2,Tarragone,Barcelone,Isaac Del Toro Romero  (Uae Team Emirates Xrg),Jonas Vingegaard Hansen,Isaac Del Toro Romero,Alex Molenaar,Juan Ayuso Pesquera,,2.0,168.5,,3245.0
+2026,3,Granollers,Les Angles,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Jonas Vingegaard Hansen,Alex Baudin,Isaac Del Toro Romero,,3.0,195.9,,3245.0
+2026,4,Carcassonne,Foix,Mads Pedersen  (Lidl-Trek),Torstein Træen,Mads Pedersen,Alex Baudin,Mathias Vacek,,4.0,181.9,,3245.0
+2026,5,Lannemezan,Pau,Olav Kooij  (Decathlon Cma Cgm Team),Torstein Træen,Mads Pedersen,Alex Baudin,Mathias Vacek,,5.0,158.3,,3245.0
+2026,6,Pau,Gavarnie-Gèdre,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Isaac Del Toro Romero,,6.0,186.2,,3245.0
+2026,7,Hagetmau,Bordeaux,Tim Merlier  (Soudal Quick-Step),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Isaac Del Toro Romero,,7.0,175.1,,3245.0
+2026,8,Périgueux,Bergerac,Tim Merlier  (Soudal Quick-Step),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Isaac Del Toro Romero,,8.0,180.4,,3245.0
+2026,9,Malemort,Ussel,Mathieu Van Der Poel  (Alpecin-Premier Tech),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Isaac Del Toro Romero,,9.0,154.6,,3245.0
+2026,10,Aurillac,Le Lioran,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Juan Ayuso Pesquera,,10.0,165.6,,3245.0
+2026,11,Vichy,Nevers,Søren Wærenskjold  (Uno-X Mobility),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Juan Ayuso Pesquera,,11.0,161.3,,3245.0
+2026,12,Circuit Nevers Magny-Cours,Chalon-sur-Saône,Tim Merlier  (Soudal Quick-Step),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Juan Ayuso Pesquera,,12.0,179.1,,3245.0
+2026,13,Dole,Belfort,Mauro Schmid  (Team Jayco Alula),Tadej Pogacar,Mads Pedersen,Jonas Vingegaard Hansen,Juan Ayuso Pesquera,,13.0,205.8,,3245.0
+2026,14,Mulhouse,Le Markstein Fellering,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Mads Pedersen,Valentin Paret Peintre,Paul Seixas,,14.0,155.3,,3245.0
+2026,15,Champagnole,Plateau de Solaison,Remco Evenepoel  (Red Bull - Bora - Hansgrohe),Tadej Pogacar,Mads Pedersen,Valentin Paret Peintre,Isaac Del Toro Romero,,15.0,183.9,,3245.0
+2026,16,Évian-les-Bains,Thonon-les-Bains,Remco Evenepoel  (Red Bull - Bora - Hansgrohe),Tadej Pogacar,Mads Pedersen,Valentin Paret Peintre,Isaac Del Toro Romero,,16.0,26.1,,3245.0
+2026,17,Chambery,Voiron,Jasper Philipsen  (Alpecin-Premier Tech),Tadej Pogacar,Mads Pedersen,Valentin Paret Peintre,Isaac Del Toro Romero,,17.0,174.7,,3245.0
+2026,18,Voiron,Orcières-Merlette,Richard Carapaz  (Ef Education - Easypost),Tadej Pogacar,Mads Pedersen,Valentin Paret Peintre,Isaac Del Toro Romero,,18.0,185.2,,3245.0
+2026,19,Gap,Alpe d'Huez,Tadej Pogacar  (Uae Team Emirates Xrg),Tadej Pogacar,Mads Pedersen,Richard Carapaz,Isaac Del Toro Romero,,19.0,127.9,,3245.0
+2026,20,Le Bourg d'Oisans,Alpe d'Huez,Richard Carapaz  (Ef Education - Easypost),Tadej Pogacar,Mads Pedersen,Richard Carapaz,Isaac Del Toro Romero,,20.0,170.9,,3245.0
+2026,21,Thoiry,Paris Champs-Élysées,Mathieu Van Der Poel  (Alpecin-Premier Tech),Tadej Pogacar,Mads Pedersen,Richard Carapaz,Isaac Del Toro Romero,,21.0,88.7,,3245.0
